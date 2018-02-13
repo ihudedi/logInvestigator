@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: ihudedi
+Specification-Title: Loom System Task
+Commit: b1
+Build-Time: 2018-02-13T10:10:40Z
+Branch: loom
+Build-Jdk: 1.8.0_162
+Specification-Version: 1.0.0
+Created-By: Maven Integration for Eclipse
+Main-Class: com.loomsystem.LogInvestigation
+
